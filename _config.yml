@@ -9,7 +9,8 @@ name: lu-mm
 description: 运维开发
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lu-mm/lu-mm.github.io/tree/master/images/profile_photo.jpg
+#avatar: https://github.com/lu-mm/lu-mm.github.io/tree/master/images/profile_photo.jpg
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
